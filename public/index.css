@@ -1,0 +1,28 @@
+
+main{
+    background-color: whitesmoke;
+  }
+  main .pic {
+    height: 300px;
+    border-radius: 32px;
+    background-image: url("pexels-karolina-grabowska-4033165.jpg");
+    font-family: 'Caveat', cursive;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    justify-content:flex-end;
+  }
+  h1{
+    padding: 220px;
+    color: rgb(58, 47, 29);
+}
+.user_id{
+    color: rgb(58, 47, 29);
+    font-family: 'Lilita One', sans-serif;
+}
+.recipe_id{
+  color: rgb(58, 47, 29);
+  font-family: 'Lilita One', sans-serif;
+}
+  
+    

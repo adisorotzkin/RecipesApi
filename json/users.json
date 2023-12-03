@@ -1,0 +1,95 @@
+
+     [
+      {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "password": "password1",
+        "role": "user"
+      },
+      {
+        "name": "Jane Johnson",
+        "email": "jane.johnson@example.com",
+        "password": "password2",
+        "role": "user"
+      },
+      {
+        "name": "David Brown",
+        "email": "david.brown@example.com",
+        "password": "password3",
+        "role": "user"
+      },
+      {
+        "name": "Emily Davis",
+        "email": "emily.davis@example.com",
+        "password": "password4",
+        "role": "user"
+      },
+      {
+        "name": "Daniel Wilson",
+        "email": "daniel.wilson@example.com",
+        "password": "password5",
+        "role": "user"
+      },
+      {
+        "name": "Olivia Moore",
+        "email": "olivia.moore@example.com",
+        "password": "password6",
+        "role": "user"
+      },
+      {
+        "name": "Michael Anderson",
+        "email": "michael.anderson@example.com",
+        "password": "password7",
+        "role": "user"
+      },
+      {
+        "name": "Sophia Taylor",
+        "email": "sophia.taylor@example.com",
+        "password": "password8",
+        "role": "user"
+      },
+      {
+        "name": "William Martinez",
+        "email": "william.martinez@example.com",
+        "password": "password9",
+        "role": "user"
+      },
+      {
+        "name": "Emma White",
+        "email": "emma.white@example.com",
+        "password": "password10",
+        "role": "user"
+      },
+      {
+        "name": "Liam Harris",
+        "email": "liam.harris@example.com",
+        "password": "password11",
+        "role": "user"
+      },
+      {
+        "name": "Ava Jackson",
+        "email": "ava.jackson@example.com",
+        "password": "password12",
+        "role": "user"
+      },
+      {
+        "name": "Ethan Nelson",
+        "email": "ethan.nelson@example.com",
+        "password": "password13",
+        "role": "user"
+      },
+      {
+        "name": "Mia Thomas",
+        "email": "mia.thomas@example.com",
+        "password": "password14",
+        "role": "user"
+      },
+      {
+        "name": "Admin Adminson",
+        "email": "admin@admin.com",
+        "password": "adminpassword",
+        "role": "admin"
+      }
+    ]
+  
+  
